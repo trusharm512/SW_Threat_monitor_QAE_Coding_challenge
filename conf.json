@@ -1,0 +1,6 @@
+{
+     "process_runtime_path" : ".\\TM_tool_Logs\\Process_runtime.txt",
+	 "hash_runtime_path"    : ".\\TM_tool_Logs\\Hash_runtime.log",
+	 "hash_captured_cache"  : ".\\TM_tool_Logs\\Hash_list.txt"
+	 
+}
