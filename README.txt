@@ -3,7 +3,7 @@
    1. Python
    2. Psutil module 5.9.8 (pip install psutil)
 
-- Run the Tool(Python script) in Administartor mode
+- Run the Tool i.e. TM_tool.py (Python script) in Administartor mode
 - Make sure custom_logger.py & conf.json are present in the same folder as the running script.
 - For Logs make sure TM_tool_Logs directory is present in the script base directory
 
