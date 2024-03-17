@@ -1,0 +1,9 @@
+{
+	 "TM_tool_exe_path" : "..\\TM_tool.py",
+     "TM_tool_process_log_path" : "..\\TM_tool_Logs\\Process_runtime.txt",
+	 "TM_tool_hash_runtime_log_path"    : "..\\TM_tool_Logs\\Hash_runtime.log",
+	 "TM_tool_hash_list_cache_log_path"  : "..\\TM_tool_Logs\\Hash_list.txt",
+	 "Test_case_log_path" : ".\\Logs\\",
+	 "Test_case_result_path" : ".\\Results\\"
+	 
+}
