@@ -1,1 +1,5 @@
-
+Sat, 16 Mar 2024 19:20:09 PM - main - INFO - Line(27) : startTool : PASS
+Sat, 16 Mar 2024 19:20:19 PM - main - INFO - Line(27) : stopTool : PASS
+Sat, 16 Mar 2024 19:20:19 PM - main - INFO - Line(27) : checkLogs : PASS
+Sat, 16 Mar 2024 19:20:19 PM - main - INFO - Line(27) : checkLogs : PASS
+Sat, 16 Mar 2024 19:20:19 PM - main - INFO - Line(27) : checkLogs : PASS
