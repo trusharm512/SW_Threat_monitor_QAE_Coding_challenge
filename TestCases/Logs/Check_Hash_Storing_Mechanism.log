@@ -1,0 +1,58 @@
+Sun, 17 Mar 2024 16:00:29 PM - main - INFO - Line(27) : All Path set : C:\Selenium_Python_scripts\LearningPython\Threat Monitor\TestCases C:\Selenium_Python_scripts\LearningPython\Threat Monitor\TestCases\Results\Check_Hash_Storing_Mechanism.txt C:\Selenium_Python_scripts\LearningPython\Threat Monitor\TestCases\Logs\Check_Hash_Storing_Mechanism.log
+Sun, 17 Mar 2024 16:00:40 PM - main - INFO - Line(27) : Starting 1st Test - Checking Hash Storage Mechanism
+Sun, 17 Mar 2024 16:00:40 PM - main - ERROR - Line(23) : compareHashLogvscmd : Fail with Error 4952aaf188ed319287892526346952a5 not found
+Sun, 17 Mar 2024 16:02:20 PM - main - INFO - Line(27) : Starting 2nd Test - Checking Hash Update Mechanism
+Sun, 17 Mar 2024 16:02:21 PM - main - INFO - Line(27) : compareHashLogvscmd : PASS
+Selenium_Python_scripts\LearningPython\Threat Monitor
+Sun, 17 Mar 2024 16:00:29 PM - startTool - INFO - Line(27) : Current working Directory is set to : C:\Selenium_Python_scripts\LearningPython\Threat Monitor
+Sun, 17 Mar 2024 16:00:29 PM - startTool - INFO - Line(27) : Current working Directory is set to : C:\Selenium_Python_scripts\LearningPython\Threat Monitor
+Sun, 17 Mar 2024 16:00:29 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 9572
+Sun, 17 Mar 2024 16:00:29 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 9572
+Sun, 17 Mar 2024 16:00:29 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 9572
+Sun, 17 Mar 2024 16:00:29 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 9572
+Sun, 17 Mar 2024 16:00:39 PM - stopTool - INFO - Line(27) : Inside StopTool function
+Sun, 17 Mar 2024 16:00:39 PM - readHashlistLog - INFO - Line(27) : Getting Hash List from Tool Log
+Sun, 17 Mar 2024 16:00:40 PM - collectHashFromCmd - INFO - Line(27) : Getting Hash List from Powershell Command
+Sun, 17 Mar 2024 16:00:40 PM - main - INFO - Line(27) : Starting 1st Test - Checking Hash Storage Mechanism
+Sun, 17 Mar 2024 16:00:40 PM - compareHashLogvscmd - ERROR - Line(23) : 4952aaf188ed319287892526346952a5 not in the command prompt hash list
+Sun, 17 Mar 2024 16:00:40 PM - main - ERROR - Line(23) : compareHashLogvscmd : Fail with Error 4952aaf188ed319287892526346952a5 not found
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Inside StartTool function
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Inside StartTool function
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Inside StartTool function
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Inside StartTool function
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Inside StartTool function
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Changing From Testcase dir to Tool dir for setting Environment
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Changing From Testcase dir to Tool dir for setting Environment
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Changing From Testcase dir to Tool dir for setting Environment
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Changing From Testcase dir to Tool dir for setting Environment
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Changing From Testcase dir to Tool dir for setting Environment
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Changing From Testcase dir to Tool dir for setting Environment
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Current working Directory is set to : C:\Selenium_Python_scripts\LearningPython\Threat Monitor
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Current working Directory is set to : C:\Selenium_Python_scripts\LearningPython\Threat Monitor
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Current working Directory is set to : C:\Selenium_Python_scripts\LearningPython\Threat Monitor
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Current working Directory is set to : C:\Selenium_Python_scripts\LearningPython\Threat Monitor
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Current working Directory is set to : C:\Selenium_Python_scripts\LearningPython\Threat Monitor
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Current working Directory is set to : C:\Selenium_Python_scripts\LearningPython\Threat Monitor
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Current working Directory is set to : C:\Selenium_Python_scripts\LearningPython\Threat Monitor
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 14372
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 14372
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 14372
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 14372
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 14372
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 14372
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 14372
+Sun, 17 Mar 2024 16:00:40 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 14372
+Sun, 17 Mar 2024 16:02:20 PM - stopTool - INFO - Line(27) : Inside StopTool function
+Sun, 17 Mar 2024 16:02:20 PM - stopTool - INFO - Line(27) : Inside StopTool function
+Sun, 17 Mar 2024 16:02:20 PM - main - INFO - Line(27) : Starting 2nd Test - Checking Hash Update Mechanism
+Sun, 17 Mar 2024 16:02:20 PM - main - INFO - Line(27) : Starting 2nd Test - Checking Hash Update Mechanism
+Sun, 17 Mar 2024 16:02:20 PM - readHashlistLog - INFO - Line(27) : Getting Hash List from Tool Log
+Sun, 17 Mar 2024 16:02:20 PM - readHashlistLog - INFO - Line(27) : Getting Hash List from Tool Log
+Sun, 17 Mar 2024 16:02:21 PM - checkHashruntimelog - INFO - Line(27) : Hash Runtime log updating properly for ['69d7d117e3627ec11bc6961bdc86bfcc', 'already in Cache', 'Disacrding']
+Sun, 17 Mar 2024 16:02:21 PM - checkHashruntimelog - INFO - Line(27) : Hash Runtime log updating properly for ['69d7d117e3627ec11bc6961bdc86bfcc', '60 sec time over', 'Updating Cache']
+Sun, 17 Mar 2024 16:02:21 PM - checkHashruntimelog - INFO - Line(27) : Hash Runtime log updating properly for ['69d7d117e3627ec11bc6961bdc86bfcc', '60 sec time over', 'Updating Cache']
+Sun, 17 Mar 2024 16:02:21 PM - checkHashruntimelog - INFO - Line(27) : Hash Runtime log updating properly for ['69d7d117e3627ec11bc6961bdc86bfcc', 'New Hash', 'Updating Cache']
+Sun, 17 Mar 2024 16:02:21 PM - checkHashruntimelog - INFO - Line(27) : Hash Runtime log updating properly for ['69d7d117e3627ec11bc6961bdc86bfcc', 'New Hash', 'Updating Cache']
+Sun, 17 Mar 2024 16:02:21 PM - checkHashruntimelog - INFO - Line(27) : Hash Runtime log updating properly for ['69d7d117e3627ec11bc6961bdc86bfcc', 'New Hash', 'Updating Cache']
+Sun, 17 Mar 2024 16:02:21 PM - main - INFO - Line(27) : compareHashLogvscmd : PASS
+Sun, 17 Mar 2024 16:02:21 PM - main - INFO - Line(27) : compareHashLogvscmd : PASS

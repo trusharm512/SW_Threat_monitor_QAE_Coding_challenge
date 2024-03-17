@@ -1,0 +1,17 @@
+Sun, 17 Mar 2024 18:08:54 PM - main - INFO - Line(27) : All Path set : C:\Selenium_Python_scripts\LearningPython\Threat Monitor\TestCases C:\Selenium_Python_scripts\LearningPython\Threat Monitor\TestCases\Results\Check_Duplicate_Process_Entry.txt C:\Selenium_Python_scripts\LearningPython\Threat Monitor\TestCases\Logs\Check_Duplicate_Process_Entry.log
+Sun, 17 Mar 2024 18:08:54 PM - main - INFO - Line(27) : Starting Test Inside Main function()
+Sun, 17 Mar 2024 18:09:24 PM - main - INFO - Line(27) : checkDuplicateProcessEntry : PASS
+)
+Sun, 17 Mar 2024 18:08:54 PM - startTool - INFO - Line(27) : Inside StartTool function
+Sun, 17 Mar 2024 18:08:54 PM - startTool - INFO - Line(27) : Changing From Testcase dir to Tool dir for setting Environment
+Sun, 17 Mar 2024 18:08:54 PM - startTool - INFO - Line(27) : Changing From Testcase dir to Tool dir for setting Environment
+Sun, 17 Mar 2024 18:08:54 PM - startTool - INFO - Line(27) : Current working Directory is set to : C:\Selenium_Python_scripts\LearningPython\Threat Monitor
+Sun, 17 Mar 2024 18:08:54 PM - startTool - INFO - Line(27) : Current working Directory is set to : C:\Selenium_Python_scripts\LearningPython\Threat Monitor
+Sun, 17 Mar 2024 18:08:54 PM - startTool - INFO - Line(27) : Current working Directory is set to : C:\Selenium_Python_scripts\LearningPython\Threat Monitor
+Sun, 17 Mar 2024 18:08:54 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 15052
+Sun, 17 Mar 2024 18:08:54 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 15052
+Sun, 17 Mar 2024 18:08:54 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 15052
+Sun, 17 Mar 2024 18:08:54 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 15052
+Sun, 17 Mar 2024 18:09:24 PM - captureRuntimeProcessFromToolLog - INFO - Line(27) : Capturing Process from Threat monitor Tool Process runtime log
+Sun, 17 Mar 2024 18:09:24 PM - main - INFO - Line(27) : checkDuplicateProcessEntry : PASS
+Sun, 17 Mar 2024 18:09:24 PM - stopTool - INFO - Line(27) : Inside StopTool function

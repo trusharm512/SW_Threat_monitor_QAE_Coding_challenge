@@ -1,1 +1,24 @@
-
+Sat, 16 Mar 2024 19:20:09 PM - main - INFO - Line(27) : All Path set : C:\Selenium_Python_scripts\LearningPython\Threat Monitor\TestCases C:\Selenium_Python_scripts\LearningPython\Threat Monitor\TestCases\Results\Check_Tool_Health.txt C:\Selenium_Python_scripts\LearningPython\Threat Monitor\TestCases\Logs\Check_Tool_Health.log
+Sat, 16 Mar 2024 19:20:09 PM - main - INFO - Line(27) : Starting Test Inside Main function()
+Sat, 16 Mar 2024 19:20:09 PM - main - INFO - Line(27) : startTool : PASS
+Sat, 16 Mar 2024 19:20:19 PM - main - INFO - Line(27) : stopTool : PASS
+Sat, 16 Mar 2024 19:20:19 PM - main - INFO - Line(27) : checkLogs : PASS
+- startTool - INFO - Line(27) : Changing From Testcase dir to Tool dir for setting Environment
+Sat, 16 Mar 2024 19:20:09 PM - startTool - INFO - Line(27) : Changing From Testcase dir to Tool dir for setting Environment
+Sat, 16 Mar 2024 19:20:09 PM - startTool - INFO - Line(27) : Current working Directory is set to : C:\Selenium_Python_scripts\LearningPython\Threat Monitor
+Sat, 16 Mar 2024 19:20:09 PM - startTool - INFO - Line(27) : Current working Directory is set to : C:\Selenium_Python_scripts\LearningPython\Threat Monitor
+Sat, 16 Mar 2024 19:20:09 PM - startTool - INFO - Line(27) : Current working Directory is set to : C:\Selenium_Python_scripts\LearningPython\Threat Monitor
+Sat, 16 Mar 2024 19:20:09 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 10600
+Sat, 16 Mar 2024 19:20:09 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 10600
+Sat, 16 Mar 2024 19:20:09 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 10600
+Sat, 16 Mar 2024 19:20:09 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 10600
+Sat, 16 Mar 2024 19:20:09 PM - main - INFO - Line(27) : startTool : PASS
+Sat, 16 Mar 2024 19:20:19 PM - stopTool - INFO - Line(27) : 2nd Test- Inside StopTool function
+Sat, 16 Mar 2024 19:20:19 PM - main - INFO - Line(27) : stopTool : PASS
+Sat, 16 Mar 2024 19:20:19 PM - checkLogs - INFO - Line(27) : 3rd Test- Inside checkLogs function
+Sat, 16 Mar 2024 19:20:19 PM - checkLogs - INFO - Line(27) : Changing back from Tool dir to Testcase dir for setting Environment
+Sat, 16 Mar 2024 19:20:19 PM - checkLogs - INFO - Line(27) : Changing back from Tool dir to Testcase dir for setting Environment
+Sat, 16 Mar 2024 19:20:19 PM - checkLogs - INFO - Line(27) : Current working Directory is set to : C:\Selenium_Python_scripts\LearningPython\Threat Monitor\TestCases
+Sat, 16 Mar 2024 19:20:19 PM - checkLogs - INFO - Line(27) : Current working Directory is set to : C:\Selenium_Python_scripts\LearningPython\Threat Monitor\TestCases
+Sat, 16 Mar 2024 19:20:19 PM - checkLogs - INFO - Line(27) : Current working Directory is set to : C:\Selenium_Python_scripts\LearningPython\Threat Monitor\TestCases
+Sat, 16 Mar 2024 19:20:19 PM - main - INFO - Line(27) : checkLogs : PASS

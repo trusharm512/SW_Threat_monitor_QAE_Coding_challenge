@@ -1,0 +1,19 @@
+Sat, 16 Mar 2024 22:05:41 PM - main - INFO - Line(27) : All Path set : C:\Selenium_Python_scripts\LearningPython\Threat Monitor\TestCases C:\Selenium_Python_scripts\LearningPython\Threat Monitor\TestCases\Results\Check_Runtime_Process_Capture.txt C:\Selenium_Python_scripts\LearningPython\Threat Monitor\TestCases\Logs\Check_Runtime_Process_Capture.log
+Sat, 16 Mar 2024 22:05:41 PM - main - INFO - Line(27) : Starting Test Inside Main function()
+Sat, 16 Mar 2024 22:06:01 PM - main - INFO - Line(27) : checkAllProcessRunning : PASS
+ion()
+Sat, 16 Mar 2024 22:05:41 PM - startTool - INFO - Line(27) : Inside StartTool function
+Sat, 16 Mar 2024 22:05:41 PM - startTool - INFO - Line(27) : Changing From Testcase dir to Tool dir for setting Environment
+Sat, 16 Mar 2024 22:05:41 PM - startTool - INFO - Line(27) : Changing From Testcase dir to Tool dir for setting Environment
+Sat, 16 Mar 2024 22:05:41 PM - startTool - INFO - Line(27) : Current working Directory is set to : C:\Selenium_Python_scripts\LearningPython\Threat Monitor
+Sat, 16 Mar 2024 22:05:41 PM - startTool - INFO - Line(27) : Current working Directory is set to : C:\Selenium_Python_scripts\LearningPython\Threat Monitor
+Sat, 16 Mar 2024 22:05:41 PM - startTool - INFO - Line(27) : Current working Directory is set to : C:\Selenium_Python_scripts\LearningPython\Threat Monitor
+Sat, 16 Mar 2024 22:05:41 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 2136
+Sat, 16 Mar 2024 22:05:41 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 2136
+Sat, 16 Mar 2024 22:05:41 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 2136
+Sat, 16 Mar 2024 22:05:41 PM - startTool - INFO - Line(27) : Process ID of Thread monitor Tool : 2136
+Sat, 16 Mar 2024 22:06:01 PM - captureRuntimeProcessUsingCmdlet - INFO - Line(27) : Capturing Process from Windows command Tasklist
+Sat, 16 Mar 2024 22:06:01 PM - captureRuntimeProcessFromToolLog - INFO - Line(27) : Capturing Process from Threat monitor Tool Process runtime log
+Sat, 16 Mar 2024 22:06:01 PM - checkAllProcessRunning - INFO - Line(27) : Comparing Process from Windows command with Tool Process runtime log
+Sat, 16 Mar 2024 22:06:01 PM - main - INFO - Line(27) : checkAllProcessRunning : PASS
+Sat, 16 Mar 2024 22:06:01 PM - stopTool - INFO - Line(27) : Inside StopTool function
